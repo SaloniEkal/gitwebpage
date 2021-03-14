@@ -1,0 +1,63 @@
+
+         header{
+             background:#f0e4d7;
+             color: cornsilk;
+             padding: 5%;
+             height: 50px;
+             display: block;
+
+             
+
+             
+             
+
+         }
+         footer git{
+             font-size: 5px;
+         }
+
+         footer{
+             background:#ff7171;
+             background-image: url("images/Webpage_background.jpg");
+             text-align: center;
+             text-decoration-color: ivory;
+             font-size: 50px;
+             background-color: ivory;
+             color: black;
+             padding: 20%;
+             
+             
+         }
+         
+         a{
+             text-decoration: none;
+             color: ivory;
+             font-size: 30px;
+         }
+         a :hover{
+             text-decoration: underline;
+             background-color:peachpuff;
+         }
+        li:last-child{
+            margin-right: 0px;
+        }
+         body{
+             background-color: rgb(58,58,58);
+             color: white;
+             margin:0;
+             padding:0;
+             
+         }
+         ul{
+             margin: 0;
+             padding: 0;
+             list-style-type: none;
+
+         }
+         li{
+             display: inline-block;
+             margin-left: 20px;
+         }
+
+
+     
